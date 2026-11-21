@@ -8,6 +8,7 @@
 
 -->
 <!--Fixed 2026-11-21: numpad decimal, dead-key double press, Y accents, state-6 terminator-->
+<!--Changed 2026-11-21: Option+Space normal space, Option+E euro, filled empty Option keys-->
 <!--Last edited by Ukelele version 343 on 2021-05-24 at 23:40 (WEST)-->
 <keyboard group="126" id="-25814" name="Portuguese PC" maxout="1">
     <layouts>
@@ -387,24 +388,24 @@
             <key code="7" output="«"/>
             <key code="8" output="©"/>
             <key code="9" output="√"/>
-            <key code="10" output=""/>
+            <key code="10" output="`"/>
             <key code="11" output="∫"/>
             <key code="12" output="œ"/>
             <key code="13" output="∑"/>
-            <key code="14" output="æ"/>
+            <key code="14" output="€"/>
             <key code="15" output="®"/>
             <key code="16" output="¥"/>
             <key code="17" output="™"/>
-            <key code="18" output=""/>
+            <key code="18" output="~"/>
             <key code="19" output="@"/>
             <key code="20" output="£"/>
             <key code="21" output="§"/>
-            <key code="22" output=""/>
+            <key code="22" output="^"/>
             <key code="23" output="€"/>
-            <key code="24" output=""/>
+            <key code="24" output="≠"/>
             <key code="25" output="]"/>
             <key code="26" output="{"/>
-            <key code="27" output=""/>
+            <key code="27" output="°"/>
             <key code="28" output="["/>
             <key code="29" output="}"/>
             <key code="30" action="´"/>
@@ -426,7 +427,7 @@
             <key code="46" output="µ"/>
             <key code="47" output="…"/>
             <key code="48" output="&#x0009;"/>
-            <key code="49" output=" "/>
+            <key code="49" output=" "/>
             <key code="50" output="≤"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
@@ -535,7 +536,7 @@
             <key code="46" output="µ"/>
             <key code="47" output="·"/>
             <key code="48" output="&#x0009;"/>
-            <key code="49" output=" "/>
+            <key code="49" output=" "/>
             <key code="50" output="≥"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
@@ -605,24 +606,24 @@
             <key code="7" output="»"/>
             <key code="8" output="©"/>
             <key code="9" output="√"/>
-            <key code="10" output=""/>
+            <key code="10" output="`"/>
             <key code="11" output="∫"/>
             <key code="12" output="Œ"/>
             <key code="13" output="∑"/>
-            <key code="14" output="Æ"/>
+            <key code="14" output="€"/>
             <key code="15" output="®"/>
             <key code="16" output="¥"/>
             <key code="17" output="™"/>
-            <key code="18" output=""/>
+            <key code="18" output="~"/>
             <key code="19" output="@"/>
             <key code="20" output="£"/>
             <key code="21" output="§"/>
-            <key code="22" output=""/>
+            <key code="22" output="^"/>
             <key code="23" output="€"/>
-            <key code="24" output=""/>
+            <key code="24" output="≠"/>
             <key code="25" output="]"/>
             <key code="26" output="{"/>
-            <key code="27" output=""/>
+            <key code="27" output="°"/>
             <key code="28" output="["/>
             <key code="29" output="}"/>
             <key code="30" action="´ 1"/>
@@ -644,7 +645,7 @@
             <key code="46" output="µ"/>
             <key code="47" output="…"/>
             <key code="48" output="&#x0009;"/>
-            <key code="49" output=" "/>
+            <key code="49" output=" "/>
             <key code="50" output="≤"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
@@ -753,7 +754,7 @@
             <key code="46" output="µ"/>
             <key code="47" output="…"/>
             <key code="48" output="&#x0009;"/>
-            <key code="49" output=" "/>
+            <key code="49" output=" "/>
             <key code="50" output="≤"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
