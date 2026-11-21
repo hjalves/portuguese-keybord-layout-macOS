@@ -9,7 +9,7 @@
 -->
 <!--Fixed 2026-11-21: numpad decimal, dead-key double press, Y accents, state-6 terminator-->
 <!--Last edited by Ukelele version 343 on 2021-05-24 at 23:40 (WEST)-->
-<keyboard group="126" id="-25814" name="pt_PT" maxout="1">
+<keyboard group="126" id="-25814" name="Portuguese PC" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="138" modifiers="30"/>
     </layouts>

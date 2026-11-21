@@ -10,11 +10,11 @@ This is a portuguese keyboard layout made for third party keyboards on macOS (Ra
 
 1. Download or clone portuguese-keyboard-macOS .
 
-2. Go to this directory ```/Library/Keyboards Layouts``` and paste ```pt_pt.keylayout``` there.
+2. Go to this directory ```/Library/Keyboards Layouts``` and paste ```Portuguese PC.keylayout``` there.
 
-  OR Execute command in your terminal: ```open /Library/Keyboard\ Layouts``` and then paste the ```pt_pt.keylayout``` file there.
+  OR Execute command in your terminal: ```open /Library/Keyboard\ Layouts``` and then paste the ```Portuguese PC.keylayout``` file there.
 
-3. Go to ```System Preferences > Keyboard > Input Sources > "+" icon at the bottom left > Others > pt_PT > Add```.
+3. Go to ```System Preferences > Keyboard > Input Sources > "+" icon at the bottom left > Others > Portuguese PC > Add```.
 
 4. Go to ```System Preferences > Keyboard > Change Keyboard Type... > ISO (European)```. If you can't see the ```Change Keyboard Type``` option, take a look at [this](http://m10lmac.blogspot.com/2009/12/fixing-keyboard-type-problems.html).
 
