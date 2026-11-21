@@ -1,4 +1,4 @@
-# portuguese-keybord-layout-macOS
+# portuguese-pc-keyboard-layout-macos
 Portuguese keyboard layout (pt-PT) made for external third party keyboards on macOS
 
 # About
